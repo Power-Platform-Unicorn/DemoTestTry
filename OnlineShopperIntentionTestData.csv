@@ -1,4 +1,4 @@
-msdyn_Name,msdyn_Administrative,msdyn_Administrative_Duration,msdyn_BounceRates,msdyn_Browser,msdyn_ExitRates,msdyn_Informational,msdyn_Informational_Duration,msdyn_Month,msdyn_OperatingSystems,msdyn_PageValues,msdyn_msdyn_ProductRelated,msdyn_ProductRelated_Duration,msdyn_Region,msdyn_SpecialDay,msdyn_TrafficType,msdyn_VisitorType,msdyn_Weekend
+msdyn_Name,msdyn_Administrative,msdyn_Administrative_Duration,msdyn_BounceRates,msdyn_Browser,msdyn_ExitRates,msdyn_Informational,msdyn_Informational_Duration,msdyn_Month,msdyn_OperatingSystems,msdyn_PageValues,msdyn_ProductRelated,msdyn_ProductRelated_Duration,msdyn_Region,msdyn_SpecialDay,msdyn_TrafficType,msdyn_VisitorType,msdyn_Weekend
 TestCustomer57514,6,433.94,0.08,2,0.03,1,881.5,Jan,1,77.58,673,31894.61,8,0,9,New_Visitor,Yes
 TestCustomer38275,20,2675.58,0.02,11,0.19,3,2223.68,Jul,7,310.95,231,47558.15,5,1,4,New_Visitor,Yes
 TestCustomer50184,24,2788.16,0.06,11,0.15,14,2340.39,Noc,1,42.98,34,31219.56,9,0,18,Other,No
